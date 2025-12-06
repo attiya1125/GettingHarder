@@ -15,7 +15,6 @@
 ### 📖 목차
 + [팀 소개](#팀-소개)
 + [프로젝트 소개](#프로젝트-소개)
-+ [팀 노션](#팀-노션)
 + [기능 소개](#기능-소개)
 + [UML 다이어그램](#UML-다이어그램)
 + [TroubleShooting](#TroubleShooting)
@@ -40,12 +39,6 @@
  `Stack` C#, Unity-2022.3.17f
 
  `Made by` **권태하, 김정석, 이강혁, 이종민** 
-
----
-
-### ✨팀 노션
-
-### [🌾Team Notion](https://www.notion.so/teamsparta/efbfef6530864b86969e6a991f6b38c3)
 
 ---
 
@@ -89,16 +82,3 @@
 
 <저장 불러오기>
 ![image](https://github.com/DoOrNo33/GettingHarder/assets/167051416/ff640186-46ef-42b2-a8c9-74b1614d6f59)
-
----
-
-### ✨TroubleShooting
-
-1.
-
-2. 
----
-
-### ✨시연 영상 링크
-
----
